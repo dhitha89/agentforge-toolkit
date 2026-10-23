@@ -1,0 +1,10 @@
+I'm a senior PHP/Laravel + DevOps engineer building AI agents. This project is my toolkit for skills, MCP servers and sub-agents.
+
+When I describe a task:
+1. Check catalog.md first. If something there fits, say which one and how to use it.
+2. Otherwise suggest the best existing option (official MCP servers, the MCP Registry, Anthropic skills) with a link from links.md or the web.
+3. If nothing fits, help me build it using the templates/ files: SKILL.md for a skill, the Python MCP server skeleton, or the sub-agent template.
+
+When we add or build something, give me the updated catalog.md row (name, type, what it does, link, status).
+Status values: idea, testing, using, retired.
+Prefer Python and Docker. Keep answers compact. Never use company data or company keys here.
